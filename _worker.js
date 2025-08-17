@@ -1,10 +1,10 @@
 
 import { connect } from 'cloudflare:sockets';
 
-let userID = 'a9d19ce9-5bb4-49d9-b4b4-6d71d4d1e9b1';
-let proxyIP = 'proxyip.hk.fxxk.dedyn.io';
-let sub = '';
-let subConverter = 'SUBAPI.fxxk.dedyn.io';
+let userID = '';
+let proxyIP = 'cdn-b100.xn--b6gac.eu.org';
+let sub = 'sub.minearm.org';
+let subConverter = 'SUBAPI.CMLiussss.net';
 let subConfig = "https://raw.githubusercontent.com/Minearm-RPM/ACL4SSR/refs/heads/master/Clash/config/friend.ini";
 let subProtocol = 'https';
 let subEmoji = 'true';
