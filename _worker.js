@@ -2,7 +2,7 @@
 import { connect } from 'cloudflare:sockets';
 
 let userID = '';
-let proxyIP = '';
+let proxyIP = 'cdn-b100.xn--b6gac.eu.org';
 let DNS64Server = '';
 //let sub = 'sub.minearm.org';
 let subConverter = atob('U1VCQVBJLkNNTGl1c3Nzcy5uZXQ=');
@@ -4568,4 +4568,3 @@ async function nginx() {
 	`
     return text;
 }
-
